@@ -12,7 +12,7 @@ def f2c(fah):
 
 print("1. Celsius to Fahrenheit")
 print("2. Fahrenheit to Celsius")
-
+print("Github Practice")
 temp= int(input("Enter 1 / 2: ")) #choose an option
 
 
